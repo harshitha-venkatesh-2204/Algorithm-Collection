@@ -33,11 +33,16 @@ To run the algorithms, you can follow these steps:
 2. Navigate to the desired folder containing the Java or Python files.
 3. For Java files:
    Compile the Java files:
+   
    javac FileName.java
+   
    Run the compiled program:
+   
    java FileName
-4. For Python files, simply run:
-5. python FileName.py
+   
+5. For Python files, simply run:
+
+    python FileName.py
 
 
 Happy coding! 🎉
